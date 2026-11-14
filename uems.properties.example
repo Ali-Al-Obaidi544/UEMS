@@ -1,0 +1,9 @@
+# Copy to uems.properties (kept out of version control, NFR-SEC-06) and edit.
+db.url=jdbc:postgresql://localhost:5432/uems
+db.user=uems
+db.password=uems
+db.pool.size=5
+# PBKDF2 iterations (OWASP guidance: 600000). Lower values are for tests only.
+security.pbkdf2.iterations=600000
+# optional: external recommendation rules/weights file
+recommendation.config=

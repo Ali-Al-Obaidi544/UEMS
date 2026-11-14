@@ -1,0 +1,485 @@
+app.title ## UEMS – University Event Management ## نظام إدارة فعاليات الجامعة
+app.loginTitle ## Sign in ## تسجيل الدخول
+badge.officer ## Officer ## مسؤول النادي
+badge.staff ## Staff ## موظف
+btn.addSession ## Add session ## إضافة جلسة
+btn.addToCalendar ## Add to calendar ## إضافة إلى التقويم
+btn.announce ## Announce ## إرسال إعلان
+btn.announceMembers ## Announce to members ## إعلان للأعضاء
+btn.anonymize ## Anonymize ## إخفاء الهوية
+btn.appoint ## Appoint officer ## تعيين مسؤول
+btn.approve ## Approve ## موافقة
+btn.back ## Back ## رجوع
+btn.backToLogin ## Back to login ## العودة لتسجيل الدخول
+btn.cancel ## Cancel ## إلغاء الأمر
+btn.cancelEvent ## Cancel event ## إلغاء الفعالية
+btn.cancelRegistration ## Cancel registration ## إلغاء التسجيل
+btn.cancelReply ## Cancel reply ## إلغاء الرد
+btn.catalog ## Categories and tags ## التصنيفات والوسوم
+btn.changePassword ## Change password ## تغيير كلمة المرور
+btn.checkAvailability ## Check venue availability ## التحقق من توفر القاعة
+btn.checkIn ## Check-in ## تسجيل الحضور
+btn.choosePoster ## Choose poster ## اختيار ملصق
+btn.clearPlacement ## Clear placement ## مسح الترتيب
+btn.close ## Close ## إغلاق
+btn.closeRegistration ## Close registration ## إغلاق التسجيل
+btn.clubEvents ## Club events ## فعاليات النادي
+btn.copy ## Copy as new draft ## نسخ كمسودة جديدة
+btn.correctResults ## Correct published results ## تصحيح النتائج المنشورة
+btn.deactivate ## Deactivate ## تعطيل
+btn.delete ## Delete ## حذف
+btn.details ## Details ## التفاصيل
+btn.disableEnable ## Disable / enable ## تعطيل / تفعيل
+btn.edit ## Edit ## تعديل
+btn.exportAll ## Export all (.ics) ## تصدير الكل (.ics)
+btn.exportSelected ## Export selected (.ics) ## تصدير المحدد (.ics)
+btn.guest ## Browse as guest ## التصفح كزائر
+btn.history ## History ## السجل
+btn.importCsv ## Import CSV ## استيراد CSV
+btn.joinWaitlist ## Join waitlist ## الانضمام لقائمة الانتظار
+btn.leaveClub ## Leave club ## مغادرة النادي
+btn.login ## Sign in ## دخول
+btn.loginToRegister ## Sign in to register ## سجّل الدخول للتسجيل
+btn.logout ## Sign out ## تسجيل الخروج
+btn.markAbsent ## Mark absent (undo) ## تسجيل غياب (تراجع)
+btn.markAllRead ## Mark all as read ## تعليم الكل كمقروء
+btn.markPresent ## Mark present ## تسجيل حضور
+btn.markRead ## Mark as read ## تعليم كمقروء
+btn.newClub ## New club ## نادٍ جديد
+btn.newEvent ## New event ## فعالية جديدة
+btn.newProposal ## New proposal ## اقتراح فعالية
+btn.newUser ## New user ## مستخدم جديد
+btn.newVenue ## New venue ## قاعة جديدة
+btn.next ## Next ## التالي
+btn.no ## No ## لا
+btn.officers ## Officers ## المسؤولون
+btn.ok ## OK ## موافق
+btn.open ## Open ## فتح
+btn.place1 ## 1st place ## المركز الأول
+btn.place2 ## 2nd place ## المركز الثاني
+btn.place3 ## 3rd place ## المركز الثالث
+btn.post ## Post ## نشر
+btn.prev ## Previous ## السابق
+btn.publish ## Publish ## نشر الفعالية
+btn.publishResults ## Publish results ## نشر النتائج
+btn.register ## Register ## تسجيل
+btn.registrants ## Registrants ## المسجلون
+btn.reject ## Reject ## رفض
+btn.remove ## Remove ## إزالة
+btn.removeMember ## Remove member ## إزالة العضو
+btn.removeOfficer ## Remove officer ## إزالة المسؤول
+btn.reply ## Reply ## رد
+btn.requestJoin ## Request to join ## طلب انضمام
+btn.resetPassword ## Reset password ## إعادة تعيين كلمة المرور
+btn.results ## Results ## النتائج
+btn.save ## Save ## حفظ
+btn.saveAndPublish ## Save and publish ## حفظ ونشر
+btn.saveDraft ## Save draft ## حفظ كمسودة
+btn.search ## Search ## بحث
+btn.setScore ## Set score ## تحديد الدرجة
+btn.submit ## Submit for approval ## إرسال للموافقة
+btn.submitFeedback ## Submit feedback ## إرسال التقييم
+btn.timetable ## Timetable ## الجدول الزمني
+btn.updateFeedback ## Update feedback ## تحديث التقييم
+btn.view ## View ## عرض
+btn.viewList ## List ## قائمة
+btn.viewMonth ## Month ## شهري
+btn.withdraw ## Withdraw proposal ## سحب الاقتراح
+btn.yes ## Yes ## نعم
+col.accountType ## Account type ## نوع الحساب
+col.action ## Action ## الإجراء
+col.actor ## Actor ## المنفّذ
+col.building ## Building ## المبنى
+col.capacity ## Capacity ## السعة
+col.details ## Details ## التفاصيل
+col.email ## E-mail ## البريد الإلكتروني
+col.ends ## Ends ## ينتهي
+col.eventStatus ## Event status ## حالة الفعالية
+col.faculty ## Faculty ## الكلية
+col.from ## From ## من
+col.joined ## Joined ## تاريخ الانضمام
+col.members ## Members ## الأعضاء
+col.message ## Message ## الرسالة
+col.myStatus ## My membership ## عضويتي
+col.name ## Name ## الاسم
+col.no ## No. ## الرقم
+col.note ## Note ## ملاحظة
+col.placement ## Placement ## الترتيب
+col.position ## Waitlist position ## ترتيب الانتظار
+col.rating ## Rating ## التقييم
+col.registered ## Registered at ## وقت التسجيل
+col.requested ## Requested ## تاريخ الطلب
+col.role ## Role ## الدور
+col.room ## Room ## الغرفة
+col.score ## Score ## الدرجة
+col.seats ## Seats ## المقاعد
+col.starts ## Starts ## يبدأ
+col.status ## Status ## الحالة
+col.target ## Target ## الهدف
+col.title ## Title ## العنوان
+col.to ## To ## إلى
+col.topic ## Topic ## الموضوع
+col.type ## Type ## النوع
+col.universityId ## University ID ## الرقم الجامعي
+col.venue ## Venue ## القاعة
+col.when ## When ## الوقت
+col.why ## Why recommended ## سبب الاقتراح
+error.announcement.required ## Subject and message are required. ## العنوان والرسالة مطلوبان.
+error.catalog.name ## Enter a name (English is required). ## أدخل اسماً (الاسم الإنجليزي مطلوب).
+error.checkin.notConfirmed ## Only confirmed registrations can be checked in. ## يمكن تسجيل حضور المسجلين المؤكدين فقط.
+error.checkin.sessionRequired ## Choose the workshop session. ## اختر جلسة الورشة.
+error.checkin.window ## Check-in is possible from 30 minutes before the start until 24 hours after the end. ## تسجيل الحضور متاح قبل البدء بـ 30 دقيقة وحتى 24 ساعة بعد الانتهاء.
+error.clash ## This clashes with your registration for {0} ({1}). ## يتعارض هذا مع تسجيلك في {0} ({1}).
+error.club.alreadyDecided ## This request has already been decided. ## تم البت في هذا الطلب مسبقاً.
+error.club.alreadyMember ## You already belong to this club or have a pending request. ## أنت عضو في هذا النادي بالفعل أو لديك طلب قيد الانتظار.
+error.club.alreadyOfficer ## This person is already an officer of the club. ## هذا الشخص مسؤول في النادي بالفعل.
+error.club.inactive ## The club is not active. ## النادي غير نشط.
+error.club.lastOfficer ## An active club needs at least one officer. ## يحتاج النادي النشط إلى مسؤول واحد على الأقل.
+error.club.nameRequired ## Enter the club name. ## أدخل اسم النادي.
+error.club.notFound ## Club not found. ## لم يتم العثور على النادي.
+error.club.notMember ## Not a member of this club. ## لست عضواً في هذا النادي.
+error.club.notOfficer ## This person is not an officer of the club. ## هذا الشخص ليس مسؤولاً في النادي.
+error.club.removeOfficerViaStaff ## Officers can only be removed by Staff. ## يمكن للموظفين فقط إزالة المسؤولين.
+error.club.requestNotFound ## Join request not found. ## لم يتم العثور على طلب الانضمام.
+error.club.staffOfficer ## Staff accounts cannot be club officers. ## لا يمكن لحسابات الموظفين أن تكون مسؤولة في نادٍ.
+error.comment.empty ## The comment is empty. ## التعليق فارغ.
+error.comment.nesting ## Replies to replies are not supported. ## الرد على الردود غير مدعوم.
+error.comment.notFound ## Comment not found. ## لم يتم العثور على التعليق.
+error.comment.removed ## This comment was removed. ## تمت إزالة هذا التعليق.
+error.db ## A database error occurred. Please try again. ## حدث خطأ في قاعدة البيانات. يرجى المحاولة مرة أخرى.
+error.db.busy ## The system is busy. Please try again in a moment. ## النظام مشغول. يرجى المحاولة بعد قليل.
+error.db.unreachable ## The database cannot be reached. Check the connection and try again. ## تعذر الاتصال بقاعدة البيانات. تحقق من الاتصال وحاول مرة أخرى.
+error.discussion.readOnly ## The discussion is closed (read-only). ## النقاش مغلق (للقراءة فقط).
+error.discussion.unavailable ## There is no discussion for this event yet. ## لا يوجد نقاش لهذه الفعالية بعد.
+error.event.cancelDeadline ## The cancellation deadline must not be after the start. ## يجب ألا يكون آخر موعد للإلغاء بعد وقت البدء.
+error.event.capacity ## Enter a valid capacity. ## أدخل سعة صحيحة.
+error.event.capacityBelowConfirmed ## The capacity cannot be lower than the {0} confirmed registrations. ## لا يمكن أن تقل السعة عن {0} تسجيلاً مؤكداً.
+error.event.capacityRange ## The capacity must be between 1 and the venue capacity ({0}). ## يجب أن تكون السعة بين 1 وسعة القاعة ({0}).
+error.event.endBeforeStart ## The end must be after the start. ## يجب أن يكون الانتهاء بعد البدء.
+error.event.notDeletable ## Only drafts can be deleted (current state: {0}). ## يمكن حذف المسودات فقط (الحالة الحالية: {0}).
+error.event.notEditable ## The event cannot be edited in its current state ({0}). ## لا يمكن تعديل الفعالية في حالتها الحالية ({0}).
+error.event.notFound ## Event not found. ## لم يتم العثور على الفعالية.
+error.event.regDeadline ## The registration deadline must not be after the start. ## يجب ألا يكون آخر موعد للتسجيل بعد وقت البدء.
+error.event.regOpens ## Registration cannot open after its deadline. ## لا يمكن أن يفتح التسجيل بعد آخر موعد له.
+error.event.startPast ## The start must be in the future. ## يجب أن يكون وقت البدء في المستقبل.
+error.event.timesRequired ## Enter start and end times (or sessions for a workshop). ## أدخل وقتي البدء والانتهاء (أو الجلسات للورشة).
+error.event.titleRequired ## Enter a title in English or Arabic. ## أدخل عنواناً بالإنجليزية أو العربية.
+error.event.transition ## This action ({0}) is not allowed in state {1}. ## هذا الإجراء ({0}) غير مسموح في الحالة {1}.
+error.event.typeChange ## The event type cannot be changed. ## لا يمكن تغيير نوع الفعالية.
+error.event.useProposal ## Club proposals must be approved, not published directly. ## يجب اعتماد اقتراحات الأندية بدلاً من نشرها مباشرة.
+error.event.venueRequired ## Choose a venue. ## اختر قاعة.
+error.feedback.closed ## The feedback period (30 days) has ended. ## انتهت فترة التقييم (30 يوماً).
+error.feedback.editClosed ## Feedback can only be edited within 7 days. ## يمكن تعديل التقييم خلال 7 أيام فقط.
+error.feedback.exists ## You have already given feedback for this event. ## لقد قدمت تقييماً لهذه الفعالية بالفعل.
+error.feedback.notAttended ## Only students who attended can give feedback. ## يمكن للطلاب الذين حضروا فقط تقديم تقييم.
+error.feedback.notCompleted ## Feedback is possible after the event is completed. ## التقييم متاح بعد اكتمال الفعالية.
+error.feedback.notFound ## Feedback not found. ## لم يتم العثور على التقييم.
+error.feedback.rating ## The rating must be between 1 and 5. ## يجب أن يكون التقييم بين 1 و 5.
+error.file.read ## The file could not be read. ## تعذرت قراءة الملف.
+error.file.write ## The file could not be written. ## تعذرت كتابة الملف.
+error.forbidden ## You do not have permission for this action. ## ليست لديك صلاحية لهذا الإجراء.
+error.import.line ## Invalid data in line {0}. Nothing was imported. ## بيانات غير صحيحة في السطر {0}. لم يتم استيراد أي شيء.
+error.input.date ## Enter a date as yyyy-MM-dd. ## أدخل التاريخ بصيغة yyyy-MM-dd.
+error.input.datetime ## Enter date and time as yyyy-MM-dd HH:mm. ## أدخل التاريخ والوقت بصيغة yyyy-MM-dd HH:mm.
+error.login.disabled ## This account is disabled. Contact the administrator. ## هذا الحساب معطل. تواصل مع مدير النظام.
+error.login.invalid ## The university ID or password is incorrect. ## الرقم الجامعي أو كلمة المرور غير صحيحة.
+error.login.locked ## Too many failed attempts. The account is locked until {0}. ## محاولات فاشلة كثيرة. الحساب مقفل حتى {0}.
+error.mustChangePassword ## Change your password first (Profile). ## غيّر كلمة المرور أولاً (الملف الشخصي).
+error.password.mismatch ## The new passwords do not match. ## كلمتا المرور الجديدتان غير متطابقتين.
+error.password.weak ## The password needs at least 8 characters with letters and digits. ## يجب أن تتكون كلمة المرور من 8 أحرف على الأقل وتحتوي على حروف وأرقام.
+error.password.wrongOld ## The current password is incorrect. ## كلمة المرور الحالية غير صحيحة.
+error.poster.size ## The poster must be at most 2 MB. ## يجب ألا يتجاوز حجم الملصق 2 ميغابايت.
+error.poster.type ## The poster must be a PNG or JPEG image. ## يجب أن يكون الملصق صورة PNG أو JPEG.
+error.reason.required ## A reason is required. ## السبب مطلوب.
+error.recurrence.count ## At most {0} occurrences are allowed. ## الحد الأقصى المسموح {0} حدثاً.
+error.recurrence.end ## Enter an end date or a number of occurrences. ## أدخل تاريخ انتهاء أو عدد التكرارات.
+error.recurrence.generalOnly ## Only general events can recur. ## يمكن للفعاليات العامة فقط أن تتكرر.
+error.recurrence.interval ## The interval must be at least 1. ## يجب أن تكون الفترة 1 على الأقل.
+error.registration.cancelClosed ## The cancellation deadline ({0}) has passed. ## انتهى آخر موعد للإلغاء ({0}).
+error.registration.duplicate ## You are already registered for this event. ## أنت مسجل في هذه الفعالية بالفعل.
+error.registration.notFound ## Registration not found. ## لم يتم العثور على التسجيل.
+error.registration.notOpen ## Registration is not open for this event. ## التسجيل غير متاح لهذه الفعالية.
+error.registration.transition ## This action ({0}) is not allowed for a {1} registration. ## هذا الإجراء ({0}) غير مسموح لتسجيل بحالة {1}.
+error.results.alreadyPublished ## The results are already published; Staff can correct them. ## النتائج منشورة بالفعل؛ يمكن للموظفين تصحيحها.
+error.results.duplicate ## A participant can only be placed once. ## لا يمكن ترتيب المشارك أكثر من مرة.
+error.results.empty ## Enter at least one placement first. ## أدخل ترتيباً واحداً على الأقل أولاً.
+error.results.notAttended ## Only participants who attended can be placed. ## يمكن ترتيب المشاركين الذين حضروا فقط.
+error.results.notCompetition ## This event is not a competition. ## هذه الفعالية ليست مسابقة.
+error.results.notPublished ## The results are not published yet. ## لم يتم نشر النتائج بعد.
+error.results.notYet ## Results can be entered once the event has started. ## يمكن إدخال النتائج بعد بدء الفعالية.
+error.results.placement ## A placement must be 1, 2 or 3. ## يجب أن يكون الترتيب 1 أو 2 أو 3.
+error.results.score ## The score must be a non-negative number. ## يجب أن تكون الدرجة رقماً غير سالب.
+error.series.conflicts ## The venue is not free on the occurrences {0}. Skip them or choose another venue. ## القاعة غير متاحة في التكرارات {0}. تخطَّها أو اختر قاعة أخرى.
+error.series.empty ## No occurrences are left to create. ## لا توجد تكرارات متبقية للإنشاء.
+error.series.notInSeries ## This event is not part of a series. ## هذه الفعالية ليست جزءاً من سلسلة.
+error.session.expired ## Your session has expired. Please sign in again. ## انتهت جلستك. يرجى تسجيل الدخول مرة أخرى.
+error.session.notFound ## Session not found. ## لم يتم العثور على الجلسة.
+error.setting.range ## Enter a whole number between 1 and 600. ## أدخل عدداً صحيحاً بين 1 و 600.
+error.setting.unknown ## Unknown setting. ## إعداد غير معروف.
+error.slot.invalid ## The end must be after the start. ## يجب أن يكون الانتهاء بعد البدء.
+error.stale ## Someone else changed this record. Reload and try again. ## قام شخص آخر بتغيير هذا السجل. أعد التحميل وحاول مرة أخرى.
+error.text.tooLong ## The text is too long (maximum {1} characters). ## النص طويل جداً (الحد الأقصى {1} حرفاً).
+error.unexpected ## An unexpected error occurred. ## حدث خطأ غير متوقع.
+error.user.anonymized ## This account has been anonymized. ## تم إخفاء هوية هذا الحساب.
+error.user.duplicateId ## This university ID already exists. ## هذا الرقم الجامعي موجود بالفعل.
+error.user.emailInvalid ## Enter a valid e-mail address. ## أدخل بريداً إلكترونياً صحيحاً.
+error.user.idRequired ## Enter the university ID. ## أدخل الرقم الجامعي.
+error.user.inactive ## The account is not active. ## الحساب غير نشط.
+error.user.lastAdmin ## The last active administrator cannot be removed or disabled. ## لا يمكن إزالة أو تعطيل آخر مدير نشط.
+error.user.nameRequired ## Enter the name. ## أدخل الاسم.
+error.user.notFound ## User not found. ## لم يتم العثور على المستخدم.
+error.user.staffOfficer ## This person is a club officer and cannot become Staff. ## هذا الشخص مسؤول في نادٍ ولا يمكن أن يصبح موظفاً.
+error.venue.capacity ## Enter a capacity of at least 1. ## أدخل سعة لا تقل عن 1.
+error.venue.conflict ## The venue is already booked: {0} ## القاعة محجوزة بالفعل: {0}
+error.venue.hasBookings ## The venue has future bookings. ## للقاعة حجوزات مستقبلية.
+error.venue.inactive ## The venue is not active. ## القاعة غير نشطة.
+error.venue.nameRequired ## Enter the venue name. ## أدخل اسم القاعة.
+error.venue.notFound ## Venue not found. ## لم يتم العثور على القاعة.
+error.workshop.noSessions ## A workshop needs at least one session. ## تحتاج الورشة إلى جلسة واحدة على الأقل.
+error.workshop.notWorkshop ## This event is not a workshop. ## هذه الفعالية ليست ورشة عمل.
+error.workshop.overlap ## Workshop sessions must not overlap. ## يجب ألا تتداخل جلسات الورشة.
+lbl.accountType ## Account type ## نوع الحساب
+lbl.action ## Action ## الإجراء
+lbl.actor ## Actor ## المنفّذ
+lbl.building ## Building ## المبنى
+lbl.cancelDeadline ## Cancellation deadline ## آخر موعد للإلغاء
+lbl.cancelReason ## Cancellation reason ## سبب الإلغاء
+lbl.capacity ## Capacity ## السعة
+lbl.category ## Category ## التصنيف
+lbl.confirmPassword ## Confirm new password ## تأكيد كلمة المرور الجديدة
+lbl.description ## Description ## الوصف
+lbl.descriptionAr ## Description (Arabic) ## الوصف (عربي)
+lbl.descriptionEn ## Description (English) ## الوصف (إنجليزي)
+lbl.email ## E-mail ## البريد الإلكتروني
+lbl.end ## End ## الانتهاء
+lbl.every ## every ## كل
+lbl.facilities ## Facilities ## المرافق
+lbl.faculty ## Faculty ## الكلية
+lbl.firstOfficerId ## First officer (university ID) ## المسؤول الأول (الرقم الجامعي)
+lbl.from ## From ## من
+lbl.hostClub ## Host club ## النادي المنظم
+lbl.includePast ## Include past events ## تضمين الفعاليات السابقة
+lbl.interests ## Interests ## الاهتمامات
+lbl.language ## Language ## اللغة
+lbl.messageAr ## Message (Arabic) ## الرسالة (عربي)
+lbl.messageEn ## Message (English) ## الرسالة (إنجليزي)
+lbl.name ## Name ## الاسم
+lbl.nameAr ## Name (Arabic) ## الاسم (عربي)
+lbl.nameEn ## Name (English) ## الاسم (إنجليزي)
+lbl.newPassword ## New password ## كلمة المرور الجديدة
+lbl.officers ## Officers ## المسؤولون
+lbl.oldPassword ## Current password ## كلمة المرور الحالية
+lbl.openOnly ## Open for registration ## مفتوحة للتسجيل
+lbl.orCount ## or count ## أو العدد
+lbl.password ## Password ## كلمة المرور
+lbl.poster ## Poster ## الملصق
+lbl.reason ## Reason ## السبب
+lbl.reasonOptional ## Reason (optional) ## السبب (اختياري)
+lbl.recurrence ## Recurrence ## التكرار
+lbl.regDeadline ## Registration deadline ## آخر موعد للتسجيل
+lbl.regOpens ## Registration opens (optional) ## بدء التسجيل (اختياري)
+lbl.rejectionReason ## Rejection reason ## سبب الرفض
+lbl.removePoster ## Remove poster ## إزالة الملصق
+lbl.repeat ## Repeat ## تكرار
+lbl.retentionYears ## Data retention (years) ## مدة الاحتفاظ بالبيانات (سنوات)
+lbl.room ## Room ## الغرفة
+lbl.score ## Score ## الدرجة
+lbl.search ## Search ## بحث
+lbl.seats ## Seats ## المقاعد
+lbl.seatsAvailable ## Seats available ## مقاعد متاحة
+lbl.session ## Session ## الجلسة
+lbl.sessionTimeout ## Session timeout (minutes) ## مهلة الجلسة (دقائق)
+lbl.sort ## Sort by ## ترتيب حسب
+lbl.start ## Start ## البدء
+lbl.state ## State ## الحالة
+lbl.subjectAr ## Subject (Arabic) ## العنوان (عربي)
+lbl.subjectEn ## Subject (English) ## العنوان (إنجليزي)
+lbl.tag ## Tag ## وسم
+lbl.tags ## Tags ## الوسوم
+lbl.titleAr ## Title (Arabic) ## العنوان (عربي)
+lbl.titleEn ## Title (English) ## العنوان (إنجليزي)
+lbl.to ## To ## إلى
+lbl.topicAr ## Topic (Arabic) ## الموضوع (عربي)
+lbl.topicEn ## Topic (English) ## الموضوع (إنجليزي)
+lbl.type ## Type ## النوع
+lbl.universityId ## University ID ## الرقم الجامعي
+lbl.until ## until ## حتى
+lbl.venue ## Venue ## القاعة
+lbl.warning ## Warning ## تحذير
+lbl.when ## When ## الوقت
+lbl.yourRating ## Your rating ## تقييمك
+lbl.yourStatus ## Your registration ## تسجيلك
+msg.announcementSent ## The announcement was sent to {0} recipients. ## تم إرسال الإعلان إلى {0} مستلم.
+msg.attendanceTotals ## Present: {0}   Absent: {1}   Confirmed: {2} ## حاضر: {0}   غائب: {1}   مؤكد: {2}
+msg.avgRating ## Average rating {0} / 5 from {1} ratings ## متوسط التقييم {0} / 5 من {1} تقييم
+msg.confirmAnonymize ## Anonymize this account? Personal data is replaced and this cannot be undone. ## هل تريد إخفاء هوية هذا الحساب؟ سيتم استبدال البيانات الشخصية ولا يمكن التراجع.
+msg.confirmCancelRegistration ## Cancel your registration? ## هل تريد إلغاء تسجيلك؟
+msg.confirmDeactivate ## Deactivate this item? ## هل تريد تعطيل هذا العنصر؟
+msg.confirmDelete ## Delete this draft? ## هل تريد حذف هذه المسودة؟
+msg.confirmDeleteComment ## Delete your comment? ## هل تريد حذف تعليقك؟
+msg.confirmLeave ## Leave this club? ## هل تريد مغادرة هذا النادي؟
+msg.confirmRemoveMember ## Remove this member? ## هل تريد إزالة هذا العضو؟
+msg.confirmReset ## Reset the password? A new temporary password will be shown once. ## هل تريد إعادة تعيين كلمة المرور؟ ستظهر كلمة مرور مؤقتة جديدة مرة واحدة.
+msg.conflictWith ## conflicts with {0} ## يتعارض مع {0}
+msg.discussionReadOnly ## This discussion is read-only. ## هذا النقاش للقراءة فقط.
+msg.edited ## edited ## معدّل
+msg.feedbackLocked ## Your feedback was submitted and can no longer be edited. ## تم إرسال تقييمك ولا يمكن تعديله بعد الآن.
+msg.guestHint ## Guests see published events only. Sign in to register. ## يرى الزوار الفعاليات المنشورة فقط. سجّل الدخول للتسجيل.
+msg.homeAdmin ## Use the menu to manage users, venues, the audit log and system settings. ## استخدم القائمة لإدارة المستخدمين والقاعات وسجل التدقيق وإعدادات النظام.
+msg.homeOther ## Use the menu to browse events and manage your club. ## استخدم القائمة لتصفح الفعاليات وإدارة ناديك.
+msg.homeStaff ## Use the menu to manage events, approve club proposals and administer clubs. ## استخدم القائمة لإدارة الفعاليات والموافقة على اقتراحات الأندية وإدارة الأندية.
+msg.icsSaved ## Calendar file saved: {0} ## تم حفظ ملف التقويم: {0}
+msg.imported ## {0} users were created. ## تم إنشاء {0} مستخدم.
+msg.joinRequested ## Your request was sent to the club officers. ## تم إرسال طلبك إلى مسؤولي النادي.
+msg.mustChangePassword ## You must change your temporary password before you can continue. ## يجب تغيير كلمة المرور المؤقتة قبل المتابعة.
+msg.noComments ## No comments yet. ## لا توجد تعليقات بعد.
+msg.noFeedback ## No feedback yet. ## لا توجد تقييمات بعد.
+msg.pageOf ## Page {0} of {1} ({2} results) ## صفحة {0} من {1} ({2} نتيجة)
+msg.passwordChanged ## Your password was changed. ## تم تغيير كلمة المرور.
+msg.profileSaved ## Profile saved. ## تم حفظ الملف الشخصي.
+msg.registered ## You are registered. ## تم تسجيلك.
+msg.removedByAuthor ## Deleted by the author. ## حذفه صاحبه.
+msg.removedByModerator ## Removed by a moderator. ## أزاله مشرف.
+msg.replyingTo ## Replying to {0} ## الرد على {0}
+msg.resultsDraft ## Draft results (not yet visible to participants). ## نتائج مسودة (غير ظاهرة للمشاركين بعد).
+msg.resultsNotPublished ## The results have not been published yet. ## لم يتم نشر النتائج بعد.
+msg.resultsPublished ## Results are published. ## النتائج منشورة.
+msg.saved ## Saved. ## تم الحفظ.
+msg.seatsLine ## {0} of {1} seats taken, {2} left, {3} on the waitlist ## {0} من {1} مقعداً محجوزاً، {2} متبقٍ، {3} في قائمة الانتظار
+msg.seriesCreated ## {0} occurrences were created. ## تم إنشاء {0} تكراراً.
+msg.seriesPos ## occurrence {0} of {1} ## التكرار {0} من {1}
+msg.skipHint ## Tick the dates to skip. Conflicting dates are ticked for you. ## حدد التواريخ المراد تخطيها. تم تحديد التواريخ المتعارضة تلقائياً.
+msg.tempPassword ## Temporary password (shown once; the user must change it at first login): ## كلمة المرور المؤقتة (تظهر مرة واحدة؛ يجب على المستخدم تغييرها عند أول دخول):
+msg.venueAvailable ## The venue is available for these times. ## القاعة متاحة في هذه الأوقات.
+msg.waitlisted ## The event is full. You are on the waitlist. ## الفعالية ممتلئة. تمت إضافتك إلى قائمة الانتظار.
+msg.welcome ## Welcome, {0} ## مرحباً، {0}
+nav.audit ## Audit and settings ## التدقيق والإعدادات
+nav.browse ## Browse events ## تصفح الفعاليات
+nav.clubs ## Clubs ## الأندية
+nav.clubsAdmin ## Manage clubs ## إدارة الأندية
+nav.home ## Home ## الرئيسية
+nav.manageEvents ## Manage events ## إدارة الفعاليات
+nav.myClub ## My club ## ناديي
+nav.myEvents ## Club events ## فعاليات النادي
+nav.myRegistrations ## My registrations ## تسجيلاتي
+nav.notifications ## Notifications ## الإشعارات
+nav.profile ## Profile ## الملف الشخصي
+nav.proposals ## Pending proposals ## الاقتراحات المعلقة
+nav.users ## Users ## المستخدمون
+nav.venues ## Venues ## القاعات
+notif.account.typeChanged ## Your account type is now {0}. ## أصبح نوع حسابك الآن {0}.
+notif.announcement ## {0}: {1} ## {0}: {1}
+notif.comment.reply ## {0} replied to your comment on {1}. ## ردّ {0} على تعليقك في {1}.
+notif.event.cancelled ## The event {0} was cancelled. Reason: {1} ## تم إلغاء الفعالية {0}. السبب: {1}
+notif.event.changed ## The time or venue of {0} has changed. Please check the details. ## تغيّر وقت أو مكان {0}. يرجى مراجعة التفاصيل.
+notif.event.reminder ## Reminder: {0} starts on {1}. ## تذكير: تبدأ {0} في {1}.
+notif.feedback.requested ## Please rate {0}. ## يرجى تقييم {0}.
+notif.join.approved ## Your request to join {0} was approved. ## تمت الموافقة على طلب انضمامك إلى {0}.
+notif.join.rejected ## Your request to join {0} was rejected. {1} ## تم رفض طلب انضمامك إلى {0}. {1}
+notif.join.submitted ## {0} asked to join {1}. ## طلب {0} الانضمام إلى {1}.
+notif.officer.appointed ## You are now an officer of {0}. ## أصبحت مسؤولاً في {0}.
+notif.officer.removed ## You are no longer an officer of {0}. ## لم تعد مسؤولاً في {0}.
+notif.proposal.approved ## Your proposal {0} was approved and published. ## تمت الموافقة على اقتراحك {0} ونشره.
+notif.proposal.rejected ## Your proposal {0} was rejected. Reason: {1} ## تم رفض اقتراحك {0}. السبب: {1}
+notif.proposal.submitted ## New proposal {0} from {1} is waiting for approval. ## اقتراح جديد {0} من {1} بانتظار الموافقة.
+notif.registration.cancelled ## Your registration for {0} was cancelled. ## تم إلغاء تسجيلك في {0}.
+notif.registration.cancelledBy ## Your registration for {0} was cancelled by an organizer. {1} ## قام منظّم بإلغاء تسجيلك في {0}. {1}
+notif.registration.confirmed ## You are registered for {0}. ## تم تسجيلك في {0}.
+notif.registration.waitlisted ## {0} is full. You are number {1} on the waitlist. ## {0} ممتلئة. ترتيبك {1} في قائمة الانتظار.
+notif.results.corrected ## The results of {0} were corrected. ## تم تصحيح نتائج {0}.
+notif.results.published ## The results of {0} are published. ## تم نشر نتائج {0}.
+notif.waitlist.promoted ## Good news: a seat is free and you are now registered for {0}. ## خبر سار: توفر مقعد وأصبحت مسجلاً في {0}.
+notif.waitlist.skipped ## A seat became free in {0} but you could not be promoted because it clashes with another registration. ## توفر مقعد في {0} لكن تعذرت ترقيتك لأنه يتعارض مع تسجيل آخر.
+opt.allCategories ## All categories ## كل التصنيفات
+opt.allStates ## All states ## كل الحالات
+opt.allTypes ## All types ## كل الأنواع
+opt.noClub ## No club ## بدون نادٍ
+opt.sortDate ## Date ## التاريخ
+opt.sortPopularity ## Popularity ## الشعبية
+opt.sortTitle ## Title ## العنوان
+opt.workshopVenue ## Same as workshop ## نفس قاعة الورشة
+reason.club ## From your club {0} ## من ناديك {0}
+reason.history ## Similar to events you attended: {0} ## مشابهة لفعاليات حضرتها: {0}
+reason.interest ## Matches your interest: {0} ## تطابق اهتمامك: {0}
+reason.popular ## Popular right now ## رائجة حالياً
+reason.soon ## Happening soon ## ستقام قريباً
+status.active ## Active ## نشط
+status.inactive ## Inactive ## غير نشط
+status.DRAFT ## Draft ## مسودة
+status.PENDING_APPROVAL ## Pending approval ## بانتظار الموافقة
+status.PUBLISHED ## Published ## منشورة
+status.OPEN ## Open ## مفتوحة للتسجيل
+status.CLOSED ## Registration closed ## التسجيل مغلق
+status.ONGOING ## Ongoing ## جارية
+status.COMPLETED ## Completed ## مكتملة
+status.CANCELLED ## Cancelled ## ملغاة
+regStatus.CONFIRMED ## Confirmed ## مؤكد
+regStatus.WAITLISTED ## Waitlisted ## قائمة الانتظار
+regStatus.CANCELLED ## Cancelled ## ملغى
+regStatus.ATTENDED ## Attended ## حضر
+role.MEMBER ## Member ## عضو
+role.OFFICER ## Officer ## مسؤول
+memStatus.PENDING ## Pending ## قيد الانتظار
+memStatus.ACTIVE ## Active ## نشط
+memStatus.REJECTED ## Rejected ## مرفوض
+memStatus.ENDED ## Ended ## منتهي
+type.GENERAL ## General event ## فعالية عامة
+type.WORKSHOP ## Workshop ## ورشة عمل
+type.COMPETITION ## Competition ## مسابقة
+accountType.STUDENT ## Student ## طالب
+accountType.STAFF ## Staff ## موظف
+accountType.ADMIN ## Administrator ## مدير النظام
+userStatus.ACTIVE ## Active ## نشط
+userStatus.DISABLED ## Disabled ## معطل
+userStatus.ANONYMIZED ## Anonymized ## مجهول الهوية
+tab.discussion ## Discussion ## النقاش
+tab.feedback ## Feedback ## التقييم
+tab.joinRequests ## Join requests ## طلبات الانضمام
+tab.members ## Members ## الأعضاء
+tab.results ## Results ## النتائج
+tab.sessions ## Sessions ## الجلسات
+title.announce ## Announcement ## إعلان
+title.audit ## Audit log ## سجل التدقيق
+title.browse ## Browse events ## تصفح الفعاليات
+title.catalog ## Add category or tag ## إضافة تصنيف أو وسم
+title.changePassword ## Change password ## تغيير كلمة المرور
+title.checkIn ## Check-in ## تسجيل الحضور
+title.clubDetails ## Club ## النادي
+title.clubs ## Clubs ## الأندية
+title.clubsAdmin ## Manage clubs ## إدارة الأندية
+title.confirm ## Please confirm ## يرجى التأكيد
+title.editClub ## Edit club ## تعديل النادي
+title.editComment ## Edit comment ## تعديل التعليق
+title.editEvent ## Edit event ## تعديل الفعالية
+title.editUser ## Edit user ## تعديل المستخدم
+title.editVenue ## Edit venue ## تعديل القاعة
+title.error ## Error ## خطأ
+title.history ## Event history ## سجل الفعالية
+title.info ## Information ## معلومة
+title.input ## Input ## إدخال
+title.manageEvents ## Manage events ## إدارة الفعاليات
+title.myRegistrations ## My registrations ## تسجيلاتي
+title.newClub ## New club ## نادٍ جديد
+title.newEvent ## New event ## فعالية جديدة
+title.newProposal ## New event proposal ## اقتراح فعالية جديدة
+title.newUser ## New user ## مستخدم جديد
+title.newVenue ## New venue ## قاعة جديدة
+title.nextEvents ## My next events ## فعالياتي القادمة
+title.notifications ## Notifications ## الإشعارات
+title.officers ## Club officers ## مسؤولو النادي
+title.placements ## My competition placements ## ترتيبي في المسابقات
+title.profile ## Profile ## الملف الشخصي
+title.proposals ## Pending proposals ## الاقتراحات المعلقة
+title.recommended ## Recommended for you ## مقترحة لك
+title.registrants ## Registrants ## المسجلون
+title.results ## Competition results ## نتائج المسابقة
+title.saveIcs ## Save calendar file ## حفظ ملف التقويم
+title.seriesPreview ## Recurring events: preview ## الفعاليات المتكررة: معاينة
+title.session ## Workshop session ## جلسة الورشة
+title.settings ## System settings ## إعدادات النظام
+title.timetable ## Venue timetable ## الجدول الزمني للقاعة
+title.users ## Users ## المستخدمون
+title.venues ## Venues ## القاعات
+error.user.idFormat ## A student ID has 9 digits: the registration year (20xx) followed by 5 digits. ## رقم الطالب الجامعي يتكون من 9 أرقام: سنة التسجيل (20xx) يتبعها 5 أرقام.
+lbl.idHint ## Students: 9 digits (year 20xx + 5 digits). Leave empty to generate one. ## للطلاب: 9 أرقام (السنة 20xx + 5 أرقام). اتركه فارغاً للتوليد التلقائي.
+msg.newUserCredentials ## University ID: {0} – temporary password (shown once; the user must change it at first login): ## الرقم الجامعي: {0} – كلمة المرور المؤقتة (تظهر مرة واحدة؛ يجب على المستخدم تغييرها عند أول دخول):
